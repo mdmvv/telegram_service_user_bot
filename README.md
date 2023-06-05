@@ -1,6 +1,6 @@
 # Telegram User bot for service needs
 
-Telegram user bot, including a set of functions for the needs of the service
+Telegram user bot, including a set of functions for the needs of the service.
 
 Built using the `Pyrogram`, `PyMySQL` and `OpenAI`
 
