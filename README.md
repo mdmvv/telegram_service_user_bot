@@ -15,12 +15,8 @@ Built using the `Pyrogram`, `PyMySQL` and `OpenAI`
 2. Install dependencies with `pip install -r requirements.txt`.
 3. Create a database with `database.sql`.
 4. Set up your configuration in `config.ini` and settings in `settings.ini`.
-5. Write your context in `context.txt` for chat model to work.
-6. Set up `bulk_message.txt` and `config.ini` in `Bulk Message` to send bulk message.
+5. Set up `bulk_message.txt` and `config.ini` in `Bulk Message` to send bulk message.
+6. Write your context in `context.txt` for chat model to work.
 7. Run the bot using `main.py`.
 
-Administration commands:
-`/create_group <Group name> <User IDs>`
-`/add_members <Group ID> <User IDs>`
-`/ban_members <Group ID> <User IDs>`
-`/send_bulk_message`
+Administration commands: `/create_group <Group name> <User IDs>`, `/add_members <Group ID> <User IDs>`, `/ban_members <Group ID> <User IDs>`, `/send_bulk_message`.
